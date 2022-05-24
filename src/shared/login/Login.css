@@ -1,0 +1,19 @@
+.fondo{
+    width: 100%;
+    height: 100%;
+    background-image: url('../../Imagenes/img1.jpg');
+    position: absolute;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.containerf {
+    background-color: rgba(225, 225, 225, 0.6);
+    align-content: center;
+    text-align:center;
+    width: 400px;
+    height: 430px;
+    margin-top: 13%;
+    border-radius: 20px;
+    border: solid 1px rgba(400, 400, 400, 0.1);
+}
